@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "renovate-poetry-versioning-showcase"
+version = "0.1.0"
+description = ""
+authors = ["Markus Zapke-Gründemann"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+coverage = "5.0b1"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
