@@ -24,4 +24,4 @@ Example log output:
 
 Since [coverage 5.0 has been released](https://pypi.org/project/coverage/#history) Renovate should propose an update.
 
-Renovate issue: [Poetry versioning does not support pre-release identifiers](https://github.com/renovatebot/renovate/issues/5011)
+See [renovatebot/renovate#5011](https://github.com/renovatebot/renovate/issues/5011) for more details.
